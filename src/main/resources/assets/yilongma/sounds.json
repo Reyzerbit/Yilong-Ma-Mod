@@ -1,0 +1,26 @@
+{
+	"yilongma_passive": {
+		"subtitle": "sounds.yilongma.passive",
+		"sounds" : [
+			"yilongma:doge_coins",
+			"yilongma:hi_everyone",
+			"yilongma:money",
+			"yilongma:monkey",
+			"yilongma:oh_mah_gah",
+			"yilongma:tesla",
+			"yilongma:uh1",
+			"yilongma:uh2",
+			"yilongma:very_cool",
+			"yilongma:wow"
+		]
+	},
+	"yilongma_trade": {
+		"subtitle": "sounds.yilongma.trade",
+		"sounds" : [
+			"yilongma:doge_coins",
+			"yilongma:oh_mah_gah",
+			"yilongma:very_cool",
+			"yilongma:wow"
+		]
+	}
+}

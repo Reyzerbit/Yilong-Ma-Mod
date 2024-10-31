@@ -1,0 +1,17 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"category": "misc",
+	"key": {
+		"G": {"tag": "c:ingots/gold"},
+    	"N": {"item": "minecraft:nether_star"}
+	},
+	"pattern": [
+		"GGG",
+		"GNG",
+		"GGG"
+	],
+	"result": {
+		"count": 1,
+		"id": "yilongma:doge_coin"
+    }
+}
